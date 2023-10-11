@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "lvls_kbd_parts")(type "KiCad")(uri "${KIPRJMOD}/lvls_parts")(options "")(descr ""))
+)
